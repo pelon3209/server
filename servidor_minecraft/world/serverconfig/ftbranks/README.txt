@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Wed Jan 01 00:55:02 UTC 2025
+Last README file update: Wed Jan 01 02:47:55 UTC 2025
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -766,6 +766,9 @@ command.difficulty.easy
 command.difficulty.hard
 command.difficulty.normal
 command.difficulty.peaceful
+command.e4mc
+command.e4mc.restart
+command.e4mc.stop
 command.easy_npc
 command.easy_npc.configure
 command.easy_npc.configure.target
@@ -2069,6 +2072,11 @@ command.recipe.take.targets.all
 command.recipe.take.targets.recipe
 command.recording
 command.reload
+command.restore
+command.restore.target
+command.restore.target.death_id
+command.restore.target.death_id.add
+command.restore.target.death_id.replace
 command.return
 command.return.value
 command.ride

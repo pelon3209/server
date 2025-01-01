@@ -1,5 +1,0 @@
-
-#Common Settings
-[common]
-	enabledItems = ["sophisticatedbackpacks:blasting_upgrade|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedbackpacks:gold_backpack|true"]
-

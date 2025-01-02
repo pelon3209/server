@@ -6406,5 +6406,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-01-02 08:44:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

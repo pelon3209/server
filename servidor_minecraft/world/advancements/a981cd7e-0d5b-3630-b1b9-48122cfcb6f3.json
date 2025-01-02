@@ -6883,5 +6883,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-02 08:38:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

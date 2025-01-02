@@ -1392,6 +1392,7 @@
       "minecraft:magma_cube": "2025-01-01 08:28:02 +0000",
       "minecraft:spider": "2025-01-01 06:14:51 +0000",
       "minecraft:creeper": "2025-01-01 06:04:31 +0000",
+      "minecraft:witch": "2025-01-02 09:08:00 +0000",
       "minecraft:cave_spider": "2025-01-02 06:45:51 +0000",
       "minecraft:zombie": "2025-01-01 05:32:53 +0000"
     },
@@ -4820,6 +4821,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-01-02 08:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 09:05:23 +0000"
     },
     "done": true
   },

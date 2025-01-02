@@ -6883,12 +6883,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/tame_cockatrice": {
-    "criteria": {
-      "tame_rat": "2025-01-02 09:08:49 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-01-02 08:38:50 +0000"
@@ -6898,6 +6892,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-01-02 09:07:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-01-02 09:08:49 +0000"
     },
     "done": true
   },

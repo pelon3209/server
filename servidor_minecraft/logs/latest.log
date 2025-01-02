@@ -1176,3 +1176,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 03:01:15.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
 [02Jan2025 03:05:31.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [Amateur Archaeologist]
 [02Jan2025 03:14:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo blew up
+[02Jan2025 03:20:45.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 03:20:45.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 03:20:45.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 03:20:51.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lelewo lost connection: Disconnected
+[02Jan2025 03:20:51.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo left the game
+[02Jan2025 03:20:51.957] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lelewo
+[02Jan2025 03:20:51.999] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 03:21:06.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lelewo[/127.62.132.232:33297] logged in with entity id 10753 at (-342.05591908962765, 127.0, 518.4243420965206)
+[02Jan2025 03:21:06.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo joined the game
+[02Jan2025 03:21:07.903] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lelewo (18)
+[02Jan2025 03:21:07.904] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 03:21:19.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 03:21:20.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 03:21:20.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 03:22:12.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Melonguito[/127.82.35.70:54109] logged in with entity id 11101 at (-402.74083489371264, 116.0, -46.92953761826982)
+[02Jan2025 03:22:12.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito joined the game
+[02Jan2025 03:23:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was blown up by Mutant Creeper
+[02Jan2025 03:23:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naterah> no se te escucha
+[02Jan2025 03:25:02.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was blown up by Mutant Creeper
+[02Jan2025 03:25:53.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Beast Patient
+[02Jan2025 03:31:44.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah burned to death

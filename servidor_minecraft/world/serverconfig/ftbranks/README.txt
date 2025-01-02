@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Wed Jan 01 02:47:55 UTC 2025
+Last README file update: Wed Jan 01 05:05:40 UTC 2025
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -2226,6 +2226,28 @@ command.setwarp.name
 command.setworldspawn
 command.setworldspawn.pos
 command.setworldspawn.pos.angle
+command.skin
+command.skin.clear
+command.skin.clear.targets
+command.skin.config
+command.skin.config.reload
+command.skin.refresh
+command.skin.reset
+command.skin.reset.targets
+command.skin.set
+command.skin.set.ely.by
+command.skin.set.ely.by.username
+command.skin.set.ely.by.username.targets
+command.skin.set.mojang
+command.skin.set.mojang.username
+command.skin.set.mojang.username.targets
+command.skin.set.web
+command.skin.set.web.classic
+command.skin.set.web.classic.url
+command.skin.set.web.classic.url.targets
+command.skin.set.web.slim
+command.skin.set.web.slim.url
+command.skin.set.web.slim.url.targets
 command.smithing
 command.spawn
 command.spawninfernal
@@ -2408,6 +2430,18 @@ command.trigger.objective.set
 command.trigger.objective.set.value
 command.unmute
 command.unmute.player
+command.voicechat
+command.voicechat.help
+command.voicechat.invite
+command.voicechat.invite.target
+command.voicechat.join
+command.voicechat.join.group_id
+command.voicechat.join.group_id.password
+command.voicechat.join.group_name
+command.voicechat.join.group_name.password
+command.voicechat.leave
+command.voicechat.test
+command.voicechat.test.target
 command.warp
 command.warp.name
 command.weather

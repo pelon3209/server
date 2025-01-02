@@ -1198,3 +1198,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 03:25:53.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Beast Patient
 [02Jan2025 03:31:44.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah burned to death
 [02Jan2025 03:44:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito went up in flames
+[02Jan2025 03:47:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah tried to swim in lava
+[02Jan2025 03:51:21.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [Voluntary Exile]
+[02Jan2025 03:57:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo was blown up by Melonguito
+[02Jan2025 03:57:22.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was blown up by Melonguito
+[02Jan2025 04:04:20.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Melonguito> ¿'''''

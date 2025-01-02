@@ -1396,3 +1396,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 05:47:52.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved wrongly!
 [02Jan2025 05:51:57.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Cyclops
 [02Jan2025 05:54:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah has made the advancement [My Name is Nobody]
+[02Jan2025 06:02:02.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [Rotten to the Core]
+[02Jan2025 06:03:58.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved too quickly! -9.666397312472668,0.0,3.142061457232103
+[02Jan2025 06:08:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah has made the advancement [Into Fire]
+[02Jan2025 06:13:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Ancient Knight
+[02Jan2025 06:14:57.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved too quickly! -2.1879388686417087,-10.624520478378258,0.3312996900639291
+[02Jan2025 06:15:04.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved too quickly! -9.711254993768648,-3.9148215680886693,-0.21481250118591788
+[02Jan2025 06:21:32.176] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Jan2025 06:21:32.177] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Jan2025 06:21:32.178] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Jan2025 06:21:32.178] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}

@@ -873,6 +873,7 @@
       "bread": "2025-01-01 05:24:48 +0000",
       "cooked_rabbit": "2025-01-02 03:09:06 +0000",
       "cooked_chicken": "2025-01-02 03:44:11 +0000",
+      "rabbit_stew": "2025-01-02 06:01:43 +0000",
       "cooked_salmon": "2025-01-02 05:05:58 +0000"
     },
     "done": false
@@ -5781,6 +5782,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-01-02 06:22:15 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-01-02 05:42:22 +0000"
@@ -5792,6 +5799,12 @@
       "bred": "2025-01-02 04:54:47 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2025-01-02 06:16:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
@@ -5880,6 +5893,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-02 04:05:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-02 06:02:02 +0000"
     },
     "done": true
   },

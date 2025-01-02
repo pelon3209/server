@@ -49,6 +49,7 @@
       "minecraft:forest": "2025-01-01 05:25:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-01 08:16:22 +0000",
       "minecraft:frozen_peaks": "2025-01-01 05:13:31 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-02 04:11:40 +0000",
       "minecraft:deep_dark": "2025-01-01 06:51:31 +0000",
       "minecraft:meadow": "2025-01-01 05:48:52 +0000",
       "minecraft:plains": "2025-01-01 05:10:51 +0000"
@@ -253,12 +254,15 @@
       "cooked_mutton": "2025-01-01 06:02:14 +0000",
       "cooked_beef": "2025-01-01 07:43:12 +0000",
       "baked_potato": "2025-01-01 06:15:37 +0000",
+      "beef": "2025-01-02 04:17:54 +0000",
+      "porkchop": "2025-01-02 04:24:22 +0000",
       "apple": "2025-01-01 05:22:13 +0000",
       "rabbit": "2025-01-02 03:06:24 +0000",
       "mutton": "2025-01-01 06:36:10 +0000",
       "bread": "2025-01-01 05:17:48 +0000",
       "golden_apple": "2025-01-01 07:46:45 +0000",
-      "rotten_flesh": "2025-01-01 07:20:21 +0000"
+      "rotten_flesh": "2025-01-01 07:20:21 +0000",
+      "salmon": "2025-01-02 04:23:13 +0000"
     },
     "done": false
   },
@@ -2147,6 +2151,7 @@
       "minecraft:blaze": "2025-01-01 08:44:42 +0000",
       "minecraft:pillager": "2025-01-01 06:35:37 +0000",
       "minecraft:skeleton": "2025-01-01 06:01:08 +0000",
+      "minecraft:vindicator": "2025-01-02 04:32:09 +0000",
       "minecraft:spider": "2025-01-01 06:37:33 +0000",
       "minecraft:creeper": "2025-01-01 07:37:06 +0000",
       "minecraft:wither_skeleton": "2025-01-01 08:38:25 +0000",
@@ -5918,6 +5923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-02 04:30:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2025-01-02 03:35:21 +0000"
@@ -5942,6 +5953,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-01-02 03:52:51 +0000"
@@ -5954,6 +5971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_log": "2025-01-02 03:35:21 +0000"
@@ -5963,6 +5986,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-02 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-01-02 04:29:41 +0000"
     },
     "done": true
   },
@@ -6005,6 +6034,12 @@
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-02 04:33:04 +0000"
     },
     "done": true
   },
@@ -6074,6 +6109,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-02 04:39:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-02 03:52:51 +0000"
@@ -6128,9 +6169,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-02 04:23:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
     },
     "done": true
   },
@@ -6158,6 +6217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-02 04:23:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 03:35:21 +0000"
@@ -6170,9 +6235,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-02 04:33:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2025-01-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
     },
     "done": true
   },
@@ -6194,9 +6271,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-02 04:34:02 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-01-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 04:14:48 +0000"
     },
     "done": true
   },
@@ -6206,9 +6295,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/copper_stuff": {
     "criteria": {
       "has_wood": "2025-01-02 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-02 04:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-02 04:23:10 +0000"
     },
     "done": true
   },
@@ -6230,9 +6349,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-01-02 03:03:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-01-02 04:33:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 04:14:48 +0000"
     },
     "done": true
   },
@@ -6254,15 +6391,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-01-02 04:14:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-02 03:35:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-02 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-01-02 04:37:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-01-02 04:34:02 +0000"
     },
     "done": true
   },
@@ -6290,6 +6457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-02 04:23:10 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-02 03:52:51 +0000"
@@ -6302,9 +6475,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_log": "2025-01-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-02 04:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-02 04:13:53 +0000"
     },
     "done": true
   },
@@ -6338,6 +6529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-02 04:34:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-02 03:00:18 +0000"
@@ -6347,6 +6544,12 @@
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-02 04:29:41 +0000"
     },
     "done": true
   },
@@ -6377,6 +6580,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-01-02 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-02 04:29:41 +0000"
     },
     "done": true
   },

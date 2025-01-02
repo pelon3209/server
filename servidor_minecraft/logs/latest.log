@@ -1409,3 +1409,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 06:30:06.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito was slain by Fire Dragon
 [02Jan2025 06:31:08.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved wrongly!
 [02Jan2025 06:34:43.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lelewo> se pego discor
+[02Jan2025 06:40:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah has made the advancement [Magery]
+[02Jan2025 06:43:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [Stay Out of my Peripheral!]
+[02Jan2025 06:45:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo was slain by Skeleton
+[02Jan2025 06:47:50.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah has made the advancement [A Metallur-what?]
+[02Jan2025 06:47:53.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 06:47:53.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 06:47:53.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 06:47:54.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 06:47:55.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 06:47:55.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat

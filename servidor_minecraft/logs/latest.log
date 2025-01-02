@@ -1406,3 +1406,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 06:21:32.177] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
 [02Jan2025 06:21:32.178] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
 [02Jan2025 06:21:32.178] [Worker-Main-112/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Jan2025 06:30:06.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito was slain by Fire Dragon
+[02Jan2025 06:31:08.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved wrongly!
+[02Jan2025 06:34:43.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lelewo> se pego discor

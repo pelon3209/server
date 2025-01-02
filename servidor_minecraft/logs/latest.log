@@ -405,3 +405,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 23:29:47.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah joined the game
 [02Jan2025 23:32:45.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved too quickly! 3.728022869130996,3.375000134110252,8.727238764369304
 [02Jan2025 23:33:58.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Guardian defeated explosion in 30 seconds
+[02Jan2025 23:44:00.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah lost connection: Disconnected
+[02Jan2025 23:44:00.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah left the game
+[02Jan2025 23:44:00.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Naterah
+[02Jan2025 23:44:09.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naterah[/127.141.130.80:41241] logged in with entity id 3249 at (-361.8750986647978, 127.0, 529.3564101922804)
+[02Jan2025 23:44:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah joined the game
+[02Jan2025 23:45:10.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Zombie
+[02Jan2025 23:45:34.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Zombie

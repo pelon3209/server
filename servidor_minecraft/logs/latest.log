@@ -1197,3 +1197,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 03:25:02.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was blown up by Mutant Creeper
 [02Jan2025 03:25:53.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Beast Patient
 [02Jan2025 03:31:44.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah burned to death
+[02Jan2025 03:44:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito went up in flames

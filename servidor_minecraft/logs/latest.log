@@ -1317,3 +1317,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 04:39:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah has made the advancement [Ol' Betsy]
 [02Jan2025 04:39:50.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [02Jan2025 04:43:55.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito walked into fire whilst fighting Naterah
+[02Jan2025 04:54:47.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [The Parrots and the Bats]
+[02Jan2025 05:02:36.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo drowned whilst trying to escape Zombie
+[02Jan2025 05:04:11.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [A Seedy Place]
+[02Jan2025 05:06:32.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah has made the advancement [Book of Monsters]

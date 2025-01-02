@@ -4306,15 +4306,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 04:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 04:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 04:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-02 04:57:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-01-02 03:52:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 04:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-02 03:47:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-02 04:57:40 +0000"
     },
     "done": true
   },

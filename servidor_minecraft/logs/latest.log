@@ -1305,3 +1305,71 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 02:11:11.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lelewo moved too quickly! -6.964772053804609,0.0,8.125379814256917
 [02Jan2025 02:13:11.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lelewo: Set own game mode to Survival Mode]
 [02Jan2025 02:14:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [Ice Bucket Challenge]
+[02Jan2025 02:20:20.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lelewo: Set own game mode to Creative Mode]
+[02Jan2025 02:21:17.049] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Jan2025 02:21:17.050] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Jan2025 02:21:17.050] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Jan2025 02:21:17.051] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Jan2025 02:21:20.690] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Jan2025 02:21:20.691] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Jan2025 02:21:20.693] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Jan2025 02:21:20.693] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Jan2025 02:21:27.192] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Jan2025 02:21:28.111] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Jan2025 02:21:28.111] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Jan2025 02:21:28.111] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Jan2025 02:21:28.112] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Jan2025 02:21:30.605] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Jan2025 02:21:30.606] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Jan2025 02:21:30.606] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Jan2025 02:21:30.606] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Jan2025 02:21:31.044] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Jan2025 02:21:31.044] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Jan2025 02:21:31.044] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Jan2025 02:21:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lelewo: Set own game mode to Survival Mode]
+[02Jan2025 02:22:09.493] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Jan2025 02:22:09.497] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Jan2025 02:22:09.497] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Jan2025 02:22:09.497] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Jan2025 02:22:09.537] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Jan2025 02:22:09.537] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Jan2025 02:22:09.537] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Jan2025 02:22:09.538] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Jan2025 02:22:09.631] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Jan2025 02:22:09.631] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Jan2025 02:22:09.632] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Jan2025 02:22:09.632] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Jan2025 02:22:09.632] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Jan2025 02:22:09.654] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Jan2025 02:22:09.654] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Jan2025 02:22:09.654] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Jan2025 02:22:09.654] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Jan2025 02:22:09.661] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Jan2025 02:22:09.661] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Jan2025 02:22:09.662] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Jan2025 02:22:09.662] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Jan2025 02:22:17.886] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Jan2025 02:22:17.887] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Jan2025 02:22:17.887] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Jan2025 02:22:25.140] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[02Jan2025 02:22:25.141] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[02Jan2025 02:22:25.151] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[02Jan2025 02:22:25.151] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[02Jan2025 02:22:34.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo has made the advancement [Best Friends Forever]
+[02Jan2025 02:22:57.574] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[02Jan2025 02:22:57.575] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[02Jan2025 02:22:57.575] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[02Jan2025 02:22:57.575] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[02Jan2025 02:22:58.108] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[02Jan2025 02:22:58.108] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[02Jan2025 02:22:58.108] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[02Jan2025 02:22:58.109] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[02Jan2025 02:23:06.717] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[02Jan2025 02:23:14.062] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[02Jan2025 02:23:14.063] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[02Jan2025 02:23:14.063] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[02Jan2025 02:23:14.063] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[02Jan2025 02:23:14.064] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[02Jan2025 02:25:12.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lelewo lost connection: Disconnected
+[02Jan2025 02:25:12.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lelewo left the game
+[02Jan2025 02:25:12.690] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lelewo

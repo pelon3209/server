@@ -1459,3 +1459,128 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 09:25:19.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
 [02Jan2025 09:25:20.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
 [02Jan2025 09:25:20.804] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:26:05.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:26:05.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:26:05.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:26:06.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:26:07.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:26:07.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:26:20.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:26:20.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:26:20.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:26:20.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:26:21.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:26:21.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:27:07.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:27:07.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:27:07.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:27:07.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:27:08.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:27:08.474] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:27:20.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:27:20.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:27:20.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:27:20.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:27:21.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:27:21.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:28:07.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:28:07.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:28:07.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:28:07.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:28:08.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:28:08.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:28:20.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:28:20.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:28:20.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:28:20.924] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:28:21.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:28:21.923] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:29:03.165] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[02Jan2025 09:29:03.165] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[02Jan2025 09:29:03.165] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[02Jan2025 09:29:03.166] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[02Jan2025 09:29:03.166] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[02Jan2025 09:29:08.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:29:08.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:29:08.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:29:08.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:29:09.377] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:29:09.377] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:29:22.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:29:22.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:29:22.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:29:22.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:29:23.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:29:23.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:30:08.405] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:30:08.405] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:30:08.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:30:08.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:30:09.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:30:09.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:30:22.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:30:22.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:30:22.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:30:22.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:30:23.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:30:23.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:31:08.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:31:08.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:31:08.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:31:08.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:31:09.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:31:09.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:31:22.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:31:22.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:31:22.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:31:22.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:31:23.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:31:23.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:32:11.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:32:11.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:32:11.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:32:11.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:32:12.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:32:12.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:32:23.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:32:23.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:32:23.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:32:23.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:32:24.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:32:24.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:33:10.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:33:10.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:33:10.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:33:10.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:33:11.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:33:11.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:33:23.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:33:23.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:33:23.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:33:23.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:33:24.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:33:24.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:34:10.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:34:10.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:34:10.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:34:11.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:34:12.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:34:12.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:34:22.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:34:22.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:34:22.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:34:23.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:34:24.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:34:24.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:35:12.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:35:12.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:35:12.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:35:12.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:35:13.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:35:13.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat
+[02Jan2025 09:35:24.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0ae75ac8-185c-360b-924e-8db1edc71fd0 timed out
+[02Jan2025 09:35:24.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lelewo
+[02Jan2025 09:35:24.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lelewo
+[02Jan2025 09:35:24.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:35:25.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0ae75ac8-185c-360b-924e-8db1edc71fd0
+[02Jan2025 09:35:25.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lelewo (0ae75ac8-185c-360b-924e-8db1edc71fd0) successfully connected to voice chat

@@ -1393,3 +1393,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Jan2025 05:44:09.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was pierced by Cryomancer's icicle
 [02Jan2025 05:44:12.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito has made the advancement [A Seedy Place]
 [02Jan2025 05:44:30.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Melonguito has made the advancement [The Parrots and the Bats]
+[02Jan2025 05:47:52.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naterah moved wrongly!
+[02Jan2025 05:51:57.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah was slain by Cyclops
+[02Jan2025 05:54:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naterah has made the advancement [My Name is Nobody]

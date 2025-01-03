@@ -6901,5 +6901,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-01-03 00:19:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippogryph": {
+    "criteria": {
+      "tame_rat": "2025-01-03 00:19:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

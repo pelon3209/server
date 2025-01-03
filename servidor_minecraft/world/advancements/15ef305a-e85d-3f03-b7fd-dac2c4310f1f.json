@@ -6948,6 +6948,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-03 08:07:16 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-01-03 06:02:28 +0000"
@@ -7167,6 +7173,12 @@
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-01-03 06:02:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-01-03 08:05:45 +0000"
     },
     "done": true
   },

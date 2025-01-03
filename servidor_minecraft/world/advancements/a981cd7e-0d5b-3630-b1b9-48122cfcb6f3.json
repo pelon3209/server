@@ -7462,6 +7462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-03 07:17:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_desk": {
     "criteria": {
       "has_planks": "2025-01-03 06:13:27 +0000"

@@ -6985,6 +6985,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-01-03 02:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
@@ -6994,6 +7000,12 @@
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-01-03 02:45:57 +0000"
     },
     "done": true
   },
@@ -7024,6 +7036,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-01-03 02:46:12 +0000"
     },
     "done": true
   },

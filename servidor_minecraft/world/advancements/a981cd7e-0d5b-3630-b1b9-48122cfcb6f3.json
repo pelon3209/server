@@ -5220,9 +5220,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:basalt_deltas": "2025-01-01 08:25:56 +0000"
+      "minecraft:crimson_forest": "2025-01-03 06:10:32 +0000",
+      "minecraft:nether_wastes": "2025-01-03 06:08:23 +0000",
+      "minecraft:soul_sand_valley": "2025-01-03 06:08:15 +0000",
+      "minecraft:basalt_deltas": "2025-01-01 08:25:56 +0000",
+      "minecraft:warped_forest": "2025-01-03 06:10:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
@@ -7219,6 +7223,366 @@
   "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
       "has_item": "2025-01-03 05:03:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_table": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_table": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_desk": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_crate": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_desk": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_blinds": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped_planks": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_mystic": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_crate": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/warped_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-01-03 06:13:27 +0000"
     },
     "done": true
   },

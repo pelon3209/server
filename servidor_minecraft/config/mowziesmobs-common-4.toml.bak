@@ -1,4 +1,3 @@
-mobs = {}
 
 [tools_and_abilities]
 	#Range: 0.0 ~ 1.7976931348623157E308
@@ -130,3 +129,85 @@ mobs = {}
 			#Range: 0.0 ~ 1.7976931348623157E308
 			attack_speed = 1.2000000476837158
 
+[mobs]
+
+	[mobs.frostmaw]
+		#Disable/enable Frostmaw's boss health bar
+		has_boss_bar = true
+		#Disable/enable frostmaws healing while asleep
+		heals_out_of_battle = true
+		#Allow players to steal frostmaws' ice crystals (only using specific means!)
+		stealable_ice_crystal = true
+		#Disable/enable frostmaws resetting health when a player respawns nearby. (Prevents respawn cheese!)
+		reset_health_when_respawn = true
+
+		[mobs.frostmaw.biome_config]
+			#Mowzie's Mobs bosses cannot generate in modded or non-overworld biomes unless the biome is added to the 'has_structure/has_mowzie_structure' tag via a datapack!
+			#Each entry is a combination of allowed biome tags or biome names.
+			#Separate types with commas to require biomes to have all tags in an entry
+			#Put a '!' before a biome tag to mean NOT that tag
+			#A blank entry means all biomes. No entries means no biomes.
+			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
+			#'!minecraft:is_mountain' would mean all non-mountain biomes
+			biome_tags = ["forge:is_snowy,!minecraft:is_ocean,!minecraft:is_river,!minecraft:is_beach,!minecraft:is_forest,!minecraft:is_taiga"]
+			#Allow spawns in these biomes regardless of the biome tag settings
+			biome_whitelist = []
+			#Prevent spawns in these biomes regardless of the biome tag settings
+			biome_blacklist = []
+
+		#Controls for spawning structure/mob with world generation
+		[mobs.frostmaw.generation_config]
+			#Smaller number causes more generation, -1 to disable generation
+			#Maximum number of chunks between placements of this mob/structure.
+			#NO LONGER USED! USE DATAPACK INSTEAD
+			#Range: > -1
+			generation_distance = 25
+			#Smaller number causes more generation, -1 to disable generation
+			#Minimum number of chunks between placements of this mob/structure.
+			#NO LONGER USED! USE DATAPACK INSTEAD
+			#Range: > -1
+			generation_separation = 8
+			#Maximum height for generation placement. -65 to ignore
+			#Range: -65.0 ~ 256.0
+			height_max = 100.0
+			#Minimum height for generation placement. -65 to ignore
+			#Range: -65.0 ~ 256.0
+			height_min = 50.0
+			#Names of structures this mob/structure will avoid when generating.
+			#NO LONGER USED! USE DATAPACK INSTEAD
+			avoid_structures = ["minecraft:villages", "minecraft:pillager_outposts"]
+
+		[mobs.frostmaw.combat_config]
+			#Scale mob health by this value
+			#Range: 0.0 ~ 1.7976931348623157E308
+			health_multiplier = 1.0
+			#Scale mob attack damage by this value
+			#Range: 0.0 ~ 1.7976931348623157E308
+			attack_multiplier = 1.0
+
+	[mobs.umvuthi]
+		#Disable/enable Umvuthi's boss health bar
+		has_boss_bar = true
+		#Disable/enable Umvuthi healing while not in combat
+		heals_out_of_battle = true
+		#Which item Umvuthi desires in exchange for the Sun's Blessing
+		trade_which_item = "minecraft:gold_block"
+		#How many of the item Umvuthi desires in exchange for the Sun's Blessing
+		#Range: 0 ~ 64
+		trade_how_many = 7
+		#Disable/enable Umvuthi resetting health when a player respawns nearby. (Prevents respawn cheese!)
+		reset_health_when_respawn = true
+
+		#Generation controls for Umvuthana Groves
+		[mobs.umvuthi.biome_config]
+			#Mowzie's Mobs bosses cannot generate in modded or non-overworld biomes unless the biome is added to the 'has_structure/has_mowzie_structure' tag via a datapack!
+			#Each entry is a combination of allowed biome tags or biome names.
+			#Separate types with commas to require biomes to have all tags in an entry
+			#Put a '!' before a biome tag to mean NOT that tag
+			#A blank entry means all biomes. No entries means no biomes.
+			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
+			#'!minecraft:is_mountain' would mean all non-mountain biomes
+			biome_tags = ["minecraft:is_savanna"]
+			#Allow spawns in these biomes regardless of the biome tag settings
+			biome_whitelist = []
+			#Prevent spawns in the

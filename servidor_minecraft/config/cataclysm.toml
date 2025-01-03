@@ -1,4 +1,26 @@
 
+[Ignis]
+	#Ignis's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	IgnisHealthMultiplier = 1.0
+	#Ignis's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	IgnisDamageMultiplier = 1.0
+	#Ignis's Healing with out target
+	#Range: 0.0 ~ 1000000.0
+	IgnisNatureHealing = 10.0
+	#Ignis's Healing Multiplier
+	#Range: 0.0 ~ 1000000.0
+	IgnisHealingMultiplier = 1.0
+	#Ignis's Immune to Long distance attack range.
+	#Range: 1.0 ~ 1000000.0
+	"Ignis's prevent attacks from far away Range" = 15.0
+	#Ignis's DamageCap
+	#Range: 0.0 ~ 1000000.0
+	IgnisDamageCap = 20.0
+	#Ignis's cracked block breaking ignore the MobGriefing
+	IgnisBlockBreaking = true
+
 [Etc]
 	#Lava Opacity for the Ignitium Helemt.
 	#Range: 0.01 ~ 1.0
@@ -196,28 +218,6 @@
 	#Golem's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	GolemDamageMultiplier = 1.0
-
-[Ignis]
-	#Ignis's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	IgnisHealthMultiplier = 1.0
-	#Ignis's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 1.0
-	#Ignis's Healing with out target
-	#Range: 0.0 ~ 1000000.0
-	IgnisNatureHealing = 10.0
-	#Ignis's Healing Multiplier
-	#Range: 0.0 ~ 1000000.0
-	IgnisHealingMultiplier = 1.0
-	#Ignis's Immune to Long distance attack range.
-	#Range: 1.0 ~ 1000000.0
-	"Ignis's prevent attacks from far away Range" = 15.0
-	#Ignis's DamageCap
-	#Range: 0.0 ~ 1000000.0
-	IgnisDamageCap = 20.0
-	#Ignis's cracked block breaking ignore the MobGriefing
-	IgnisBlockBreaking = true
 
 [revenant]
 	#Revenant's Health Multiplier

@@ -1,7 +1,6 @@
 
 #Common Settings
 [common]
-	enabledItems = ["sophisticatedbackpacks:everlasting_upgrade|true", "sophisticatedbackpacks:compacting_upgrade|true"]
-
-sophisticatedbackpacks:advanced_restock_upgrade|true"]
+	#Disable / enable any items here (disables their recipes)
+	enabledItems = []
 

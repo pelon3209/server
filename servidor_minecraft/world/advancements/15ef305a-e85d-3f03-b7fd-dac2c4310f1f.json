@@ -4848,6 +4848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-01-03 01:44:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/lapis_mine": {
     "criteria": {
       "has_mine": "2025-01-03 01:06:00 +0000"
@@ -5115,6 +5121,12 @@
   "securitycraft:recipes/building_blocks/dirt_mine": {
     "criteria": {
       "has_mine": "2025-01-03 01:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-03 01:42:33 +0000"
     },
     "done": true
   },

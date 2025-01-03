@@ -6899,9 +6899,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-01-03 03:11:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/tame_hippogryph": {
     "criteria": {
       "tame_rat": "2025-01-03 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-01-03 03:11:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 03:20:11 +0000"
     },
     "done": true
   },

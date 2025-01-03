@@ -1,82 +1,1546 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735785822916 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735862783555 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785825973 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862787003 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785829039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862790065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785832100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862793479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785835187 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862796693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785838384 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862799794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785841447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862802866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785844502 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862806041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785847757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862809122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785850818 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862812296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785853874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862815368 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785857001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862818446 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785860064 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862821555 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1735785863129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735862824614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862827684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862830761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862833833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862836940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862840029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862843103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862846165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862849236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862852304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862855432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862858535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862861601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862864808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862868023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862871142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862874210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862877276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862880515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862884025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862887093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862890156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862893216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862896292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862899374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862902560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862905636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862908711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862911769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862914832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862918009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862921278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862924499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862927571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862930647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862933833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862936914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862940011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862943079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862946149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862949223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862952299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862955381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862958445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862961508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862964595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862967668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862970753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862973817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862976881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862979945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862983126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862986253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862989328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862992389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862995465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735862998634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863001740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863004807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863007883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863010953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863014025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863017089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863020178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863023479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863026540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863029609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863032671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863035736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863038959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863042035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863045109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863048237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863051302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863054427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863057496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863060567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863063638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863066708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863069787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863072847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863075916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863078983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863082067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863085131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863088206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863091278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863094342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863097415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863100479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863103562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863106679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863109865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863112940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863116011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863119109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863122188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863125254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863128353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863131486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863134605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863137665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863140917 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863143975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863147036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863150124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863153195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863156382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863159462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863162738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863165827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863168932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863172006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863175070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863178128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863181196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863184265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863187337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863190396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863193718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863196783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863200347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863203426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863206504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863209563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863212644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863215703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863218780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863221838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863224909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863227996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863231060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863234162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863237232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863240378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863243443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863246516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863249648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863252719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863255805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863258902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863261961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863265030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863268091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863271160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863274232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863277302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863280361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863283431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863286500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863289582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863293165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863296250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863299310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863302385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863305443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863308512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863311764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863314882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863317952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863321152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863324389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863327539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863330637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863333714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863336772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863339859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863342931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863346044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863349139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863352231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863355306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863358443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863361523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863364589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863367652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863370716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863373794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863376861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863379933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863383011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863386090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863389169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863392232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863395294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863398375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863401451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863404513 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863407576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863410972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863414169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863417230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863420300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863423363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863426448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863429656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863432738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863435883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863438963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863442037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863445116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863448177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863451239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863454306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863457385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863460454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863463526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863466585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863469650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863472718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863475790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863478866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863481936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863485003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863488630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863491697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863494763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863497823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863500893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863503955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863507030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863510105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863513168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863516223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863519309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863522392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863525453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863528519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863531583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863534649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863537711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863540779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863543837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863546905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863549985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863553071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863556141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863559207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863562268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863565332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863568397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863571457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863574526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863577590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+taken-posting.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+bush-airlines.gl.at.ply.gg:3483 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735863580670 tunnel running, 2 tunnels registered
 
 
 TUNNELS

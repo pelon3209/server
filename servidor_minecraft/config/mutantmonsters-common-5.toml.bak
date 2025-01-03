@@ -1,0 +1,5 @@
+#Weight for mutant creeper spawns as a percentage of the vanilla creeper spawn weight. Mutants can spawn in every biome and dimension where their vanilla counterparts can be found.
+#Range: 0.0 ~ 20.0
+mutant_creeper_spawn_weight = 0.05
+mutant_enderman_spawn_weight = 0.05
+

@@ -6919,6 +6919,60 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-03 01:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-03 01:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-03 01:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-03 01:20:23 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_yellow": {
+    "criteria": {
+      "has_wool": "2025-01-03 01:20:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-03 01:20:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-03 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-01-03 01:41:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-01-03 01:41:40 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 02:29:34 +0000"
@@ -6931,21 +6985,9 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-01-03 01:18:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-03 03:48:36 +0000"
     },
     "done": true
   },
@@ -6961,18 +7003,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-01-03 01:41:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-01-03 03:11:44 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 02:29:34 +0000"
@@ -6985,27 +7015,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-01-03 03:48:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-01-03 01:20:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
-    "criteria": {
-      "has_void_thorn": "2025-01-03 02:46:12 +0000"
     },
     "done": true
   },
@@ -7021,33 +7033,15 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:void_blossom": "2025-01-03 02:45:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-01-03 01:20:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_helmet": {
-    "criteria": {
-      "has_item": "2025-01-03 03:48:36 +0000"
     },
     "done": true
   },
@@ -7063,45 +7057,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
-    "criteria": {
-      "has_dragonscales_red": "2025-01-03 03:48:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2025-01-03 03:48:36 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/earthdive_spear": {
-    "criteria": {
-      "has_void_thorn": "2025-01-03 02:46:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-01-03 02:29:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2025-01-03 01:20:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2025-01-03 01:41:40 +0000"
-    },
-    "done": true
-  },
-  "casinocraft:recipes/decorations/wool_yellow": {
-    "criteria": {
-      "has_wool": "2025-01-03 01:20:23 +0000"
     },
     "done": true
   },
@@ -7117,21 +7075,63 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2025-01-03 01:27:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_sofa": {
-    "criteria": {
-      "has_wool": "2025-01-03 01:20:23 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-03 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-01-03 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-01-03 02:46:12 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-01-03 02:46:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-01-03 03:11:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-03 03:48:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:36 +0000"
     },
     "done": true
   },

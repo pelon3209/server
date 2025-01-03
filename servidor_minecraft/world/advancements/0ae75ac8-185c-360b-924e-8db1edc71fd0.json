@@ -6905,15 +6905,45 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2025-01-03 04:08:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_log": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-03 04:39:06 +0000"
     },
     "done": true
   },
@@ -6926,6 +6956,12 @@
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
     },
     "done": true
   },
@@ -6947,6 +6983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 04:08:25 +0000"
@@ -6965,6 +7007,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2025-01-03 04:08:25 +0000"
@@ -6974,6 +7028,12 @@
   "cfm:recipes/decorations/birch_desk": {
     "criteria": {
       "has_log": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
     },
     "done": true
   },
@@ -7019,6 +7079,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-01-03 04:08:25 +0000"
@@ -7052,6 +7118,12 @@
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
     },
     "done": true
   },
@@ -7133,6 +7205,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_table": {
     "criteria": {
       "has_planks": "2025-01-03 04:08:25 +0000"
@@ -7163,9 +7241,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-03 04:39:06 +0000"
     },
     "done": true
   },
@@ -7187,6 +7277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-01-03 04:08:25 +0000"
@@ -7196,6 +7292,18 @@
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 04:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-03 04:39:06 +0000"
     },
     "done": true
   },

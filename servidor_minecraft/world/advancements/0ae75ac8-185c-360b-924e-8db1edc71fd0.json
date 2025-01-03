@@ -41,13 +41,18 @@
       "minecraft:old_growth_pine_taiga": "2025-01-02 01:17:58 +0000",
       "minecraft:taiga": "2025-01-01 06:03:53 +0000",
       "minecraft:cherry_grove": "2025-01-01 05:12:42 +0000",
+      "minecraft:sunflower_plains": "2025-01-03 05:13:51 +0000",
       "minecraft:birch_forest": "2025-01-01 06:19:21 +0000",
+      "minecraft:beach": "2025-01-03 05:02:21 +0000",
       "minecraft:dark_forest": "2025-01-02 01:18:54 +0000",
       "minecraft:river": "2025-01-01 06:02:29 +0000",
       "minecraft:dripstone_caves": "2025-01-01 06:07:36 +0000",
       "minecraft:grove": "2025-01-01 05:50:48 +0000",
       "minecraft:jagged_peaks": "2025-01-02 05:34:11 +0000",
+      "minecraft:cold_ocean": "2025-01-03 04:57:28 +0000",
       "minecraft:forest": "2025-01-01 05:25:33 +0000",
+      "minecraft:windswept_forest": "2025-01-03 04:56:00 +0000",
+      "minecraft:ocean": "2025-01-03 05:12:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-02 01:18:12 +0000",
       "minecraft:frozen_peaks": "2025-01-01 05:16:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-02 01:53:16 +0000",
@@ -7031,6 +7036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-03 05:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-03 04:32:38 +0000"
@@ -7043,9 +7054,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-03 04:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 05:03:01 +0000"
     },
     "done": true
   },
@@ -7085,6 +7108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-03 04:57:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-01-03 04:08:25 +0000"
@@ -7115,6 +7144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-03 04:57:39 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-01-03 04:08:25 +0000"
@@ -7130,6 +7165,12 @@
   "mcwstairs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-03 04:57:39 +0000"
     },
     "done": true
   },
@@ -7232,6 +7273,12 @@
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-01-03 04:08:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-01-03 04:58:19 +0000"
     },
     "done": true
   },

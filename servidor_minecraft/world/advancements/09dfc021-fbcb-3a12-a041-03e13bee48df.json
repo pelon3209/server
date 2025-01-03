@@ -56,6 +56,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-03 06:36:06 +0000",
+      "minecraft:spider": "2025-01-03 06:40:38 +0000",
       "minecraft:zombie": "2025-01-01 20:33:26 +0000"
     },
     "done": false
@@ -324,6 +326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-03 06:05:34 +0000"
@@ -333,6 +341,12 @@
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-01-03 06:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-03 06:31:50 +0000"
     },
     "done": true
   },
@@ -369,6 +383,18 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-03 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-03 06:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -462,6 +488,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-01-03 06:26:38 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-01-03 06:09:22 +0000"
@@ -493,9 +525,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/wool_brown": {
+    "criteria": {
+      "has_wool": "2025-01-03 06:31:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-03 06:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
     },
     "done": true
   },
@@ -550,6 +594,12 @@
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2025-01-03 06:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -634,6 +684,12 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-01-03 06:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
     },
     "done": true
   },
@@ -770,15 +826,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-01-03 06:05:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_trampoline": {
     "criteria": {
       "has_iron": "2025-01-03 06:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 06:27:17 +0000"
     },
     "done": true
   },
@@ -932,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-01-03 06:04:32 +0000"
@@ -974,6 +1054,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-03 06:31:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-03 06:05:28 +0000"
@@ -1001,6 +1087,12 @@
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-03 06:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 06:27:17 +0000"
     },
     "done": true
   },
@@ -1076,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-03 06:20:26 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 06:05:22 +0000"
@@ -1100,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 06:27:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2025-01-03 06:04:32 +0000"
@@ -1112,9 +1216,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2025-01-03 06:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -1250,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-01-03 06:04:32 +0000"
@@ -1277,6 +1399,12 @@
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-01-03 06:05:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -1313,6 +1441,12 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-01-03 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
     },
     "done": true
   },
@@ -1370,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-03 06:31:50 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-01-03 06:05:22 +0000"
@@ -1424,6 +1564,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-01-03 06:04:32 +0000"
@@ -1469,6 +1615,12 @@
   "mcwpaths:recipes/oak": {
     "criteria": {
       "has_wood": "2025-01-03 06:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -1586,6 +1738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-03 06:27:17 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-01-03 06:05:22 +0000"
@@ -1649,6 +1807,12 @@
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-01-03 06:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -1820,15 +1984,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-03 06:40:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 06:05:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-03 06:26:38 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-01-03 06:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-03 06:35:14 +0000"
     },
     "done": true
   },
@@ -1847,6 +2029,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-03 06:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -1886,6 +2074,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-03 06:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-03 06:05:28 +0000"
@@ -1913,6 +2107,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-03 06:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -1955,6 +2155,12 @@
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-01-03 06:09:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-03 06:26:38 +0000"
     },
     "done": true
   },
@@ -2024,6 +2230,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 06:15:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-01-03 06:09:22 +0000"
@@ -2044,7 +2256,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-01-03 06:40:27 +0000",
+      "cooked_mutton": "2025-01-03 06:23:28 +0000",
       "sweet_berries": "2025-01-03 06:11:48 +0000",
+      "cooked_beef": "2025-01-03 06:23:50 +0000",
+      "beef": "2025-01-03 06:37:33 +0000",
       "rotten_flesh": "2025-01-03 06:03:16 +0000",
       "cooked_rabbit": "2025-01-03 06:13:31 +0000",
       "carrot": "2025-01-03 05:56:32 +0000"
@@ -2093,6 +2309,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/wool_white": {
+    "criteria": {
+      "has_wool": "2025-01-03 06:26:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-01-03 06:05:34 +0000"
@@ -2120,6 +2342,12 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_log": "2025-01-03 06:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-03 06:35:14 +0000"
     },
     "done": true
   },

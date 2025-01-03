@@ -2161,8 +2161,10 @@
       "minecraft:pillager": "2025-01-01 06:35:37 +0000",
       "minecraft:skeleton": "2025-01-01 06:01:08 +0000",
       "minecraft:vindicator": "2025-01-02 04:32:09 +0000",
+      "minecraft:magma_cube": "2025-01-03 06:22:41 +0000",
       "minecraft:spider": "2025-01-01 06:37:33 +0000",
       "minecraft:creeper": "2025-01-01 07:37:06 +0000",
+      "minecraft:zombified_piglin": "2025-01-03 06:22:50 +0000",
       "minecraft:wither_skeleton": "2025-01-01 08:38:25 +0000",
       "minecraft:cave_spider": "2025-01-01 07:14:30 +0000",
       "minecraft:enderman": "2025-01-01 09:02:06 +0000",
@@ -7238,6 +7240,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_counter": {
     "criteria": {
       "has_log": "2025-01-03 06:13:27 +0000"
@@ -7256,9 +7270,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-01-03 06:42:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:34:03 +0000"
     },
     "done": true
   },
@@ -7271,6 +7303,12 @@
   "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
     },
     "done": true
   },
@@ -7298,6 +7336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-03 06:13:27 +0000"
@@ -7313,6 +7357,12 @@
   "cfm:recipes/decorations/warped_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
     },
     "done": true
   },
@@ -7364,6 +7414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-01-03 06:13:27 +0000"
@@ -7385,6 +7441,18 @@
   "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-01-03 06:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
     },
     "done": true
   },
@@ -7448,6 +7516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-01-03 06:13:27 +0000"
@@ -7457,6 +7531,12 @@
   "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
     },
     "done": true
   },
@@ -7583,6 +7663,30 @@
   "mcwfurnitures:recipes/warped": {
     "criteria": {
       "has_wood": "2025-01-03 06:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-03 06:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 06:34:03 +0000"
     },
     "done": true
   },

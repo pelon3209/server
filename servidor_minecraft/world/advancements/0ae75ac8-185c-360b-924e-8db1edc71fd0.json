@@ -7391,6 +7391,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-01-03 09:23:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-03 08:30:00 +0000"
@@ -7904,6 +7910,12 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-03 08:30:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-01-03 09:24:54 +0000"
     },
     "done": true
   },

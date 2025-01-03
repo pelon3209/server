@@ -7851,5 +7851,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-03 09:01:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
